@@ -1,0 +1,19 @@
+body{
+    background-image: url(Pizzeria_background.gif);
+}
+
+#get_the_menu{
+    background-color: yellow;
+    font-size: large;
+}
+
+#toppings{
+    background-position-x: left;
+    background-position-y: bottom;
+}
+
+#display_name{
+    font-weight: bold;
+    font-size: 30;
+    color: black;
+}
